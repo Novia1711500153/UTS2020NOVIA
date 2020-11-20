@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151563142259",
+    "firebase_url": "https://utsnovia.firebaseio.com",
+    "project_id": "utsnovia",
+    "storage_bucket": "utsnovia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151563142259:android:c46acf2d69a66119c8d606",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500153_novia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151563142259-ha7t5t593k7mu3ei7lejr0j8f2m7737d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgW1HRD8phtatBiXqLQPyv5YQyyWDzJVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151563142259-ha7t5t593k7mu3ei7lejr0j8f2m7737d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
